@@ -24,7 +24,7 @@ class Game():
         return newGame
 
     def setupGame(self):
-        # self.board.scenarioSetup()
+        self.board.scenarioSetup()
         self.player.shufflePlayerDeck()
         self.player.drawHand()
 
