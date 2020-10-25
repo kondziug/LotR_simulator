@@ -1,2 +1,2 @@
 # LotR_simulator
-Basic simulator of Lord of the Rings card game.
+Basic simulator of the Lord of the Rings card game.
